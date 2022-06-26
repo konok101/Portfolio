@@ -1,0 +1,11 @@
+.about-img img{
+    border-radius: 90%;
+    border: 1px solid red;
+
+}
+#About:hover .or{
+ 
+        transition: 1.5s ease-in;
+        transform: matrix(-1, 0, 0, 1, 0, 0);
+   
+}
